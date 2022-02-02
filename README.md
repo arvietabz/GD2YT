@@ -13,4 +13,4 @@ The script shall automatically install all the dependencies
 <a href="https://colab.research.google.com/"> Google Colab </a> 
 
 # Credits:-
-<a href="https://github.com/agent87/"> agent87 </a> \
+<a href="https://github.com/agent87/"> agent87 </a>
